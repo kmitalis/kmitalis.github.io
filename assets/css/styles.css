@@ -349,7 +349,7 @@ body {
   
   .footer nav > a > img {
     border: 1px solid #5d5fef;
-    border-radius: 8px;
+    border-radius: 1px;
   }
   
   .navbar {
